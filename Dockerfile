@@ -9,6 +9,7 @@ COPY . .
 
 EXPOSE 4200
 EXPOSE 4201
+EXPOSE 4202
 EXPOSE 4203 
 
 CMD [ "npm", "start" ]

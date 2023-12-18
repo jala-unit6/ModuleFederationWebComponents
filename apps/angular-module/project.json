@@ -71,7 +71,8 @@
       "defaultConfiguration": "development",
       "options": {
         "port": 4201,
-        "publicHost": "http://localhost:4201"
+        "host": "0.0.0.0",
+        "publicHost": "https://modulefederation.azurewebsites.net:4201"
       }
     },
     "extract-i18n": {
